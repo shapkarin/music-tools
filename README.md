@@ -1,5 +1,5 @@
 # music-tools
-Music backups from various services. And bridges between services, import and etc.
+Bridges between services, import, export.
 
 # Roadmap
 1. Music backups tool (spotify, yandex, apple, etc)
